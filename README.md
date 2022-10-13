@@ -1,2 +1,1 @@
-# blazeparalelo
-grafico para blaze
+# chart-js

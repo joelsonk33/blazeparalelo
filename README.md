@@ -1,0 +1,2 @@
+# blazeparalelo
+grafico para blaze
